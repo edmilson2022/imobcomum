@@ -1,0 +1,22 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_50F05BE9_5CCF_6A2A_41D3_FF1497FFF3E7.label = IMG_20230215_142554_00_678-HDR
+panorama_56160CE8_5CCF_2E2A_41B4_7862AD04AEBD.label = IMG_20230215_142626_00_681-HDR
+panorama_5618F83B_5CCF_362F_41A9_C1807E55D33E.label = IMG_20230215_142837_00_696-HDR
+panorama_5606C381_5CD0_DADB_41C9_F0CCAEB8815E.label = IMG_20230215_142906_00_699-HDR
+
+## Skin
+
+### Tooltip
+IconButton_4DF2484F_5CF7_5666_41C0_90157FE22CAB.toolTip = Fullscreen
+IconButton_4DF2484F_5CF7_5666_41C0_90157FE22CAB_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 11
